@@ -4,8 +4,7 @@ This project aims to predict multiple water quality parameters using machine lea
 
 
 Model link:
--
-https://drive.google.com/file/d/1DPzX0g87OvSvuZjIGlvT35C-ocH1wzqG/view?usp=drive_link 
+-https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=drive_link 
 
 
 
